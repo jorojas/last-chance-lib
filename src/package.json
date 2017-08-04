@@ -1,0 +1,28 @@
+{
+  "name": "last-chance-lib",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jorojas/last-chance-lib"
+  },
+  "author": {
+    "name": "Jonathan Rojas",
+    "email": "jorojas@novopayment.com"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jorojas/last-chance-lib/issues"
+  },
+  "main": "last-chance-lib.umd.js",
+  "module": "last-chance-lib.js",
+  "jsnext:main": "last-chance-lib.js",
+  "typings": "last-chance-lib.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  }
+}
